@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAP_BaiTap_01_World_Client", "SOAP_BaiTap_01_World_Client\SOAP_BaiTap_01_World_Client.csproj", "{30E1D1A3-0529-418C-8581-945688353811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E1D1A3-0529-418C-8581-945688353811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E1D1A3-0529-418C-8581-945688353811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E1D1A3-0529-418C-8581-945688353811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E1D1A3-0529-418C-8581-945688353811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {266D2F3E-0551-423F-985A-1AA8226A2DEB}
+	EndGlobalSection
+EndGlobal

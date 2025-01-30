@@ -1,0 +1,24 @@
+# Bỏ qua thư mục bin và obj (chứa file build)
+bin/
+obj/
+
+# Bỏ qua file cấu hình của Visual Studio
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.csproj.user
+
+# Bỏ qua thư mục chứa các thư viện bên ngoài (nếu có)
+packages/
+node_modules/
+
+# Bỏ qua file build và log
+*.log
+*.exe
+*.dll
+*.pdb
+
+# Bỏ qua thư mục debug & release
+Debug/
+Release/
